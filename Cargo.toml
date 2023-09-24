@@ -91,7 +91,7 @@ criterion = "0.4.0"
 crossbeam-channel = "0.5.8"
 dashmap = "5.4.0"
 dialoguer = "0.10.3"
-dunce = "1.0.3"
+dunce = "1.0.4"
 futures = "0.3.26"
 futures-retry = "0.6.0"
 httpmock = { version = "0.6.7", default-features = false }
