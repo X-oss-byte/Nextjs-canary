@@ -154,7 +154,7 @@
     "@segment/ajv-human-errors": "2.1.2",
     "@taskr/clear": "1.1.0",
     "@taskr/esnext": "1.1.0",
-    "@types/amphtml-validator": "1.0.0",
+    "@types/amphtml-validator": "1.0.4",
     "@types/babel__code-frame": "7.0.2",
     "@types/babel__core": "7.1.12",
     "@types/babel__generator": "7.6.2",
