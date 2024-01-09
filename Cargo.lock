@@ -515,9 +515,9 @@ checksum = "9e1b586273c5702936fe7b7d6896644d8be71e6314cfe09d3167c95f712589e8"
 
 [[package]]
 name = "base64"
-version = "0.21.0"
+version = "0.21.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a4a4ddaa51a5bc52a6948f74c06d20aaaddb71924eab79b8c97a8c556e942d6a"
+checksum = "c79fed4cdb43e993fcdadc7e58a09fd0e3e649c4436fa11da71c9f1f3ee7feb9"
 
 [[package]]
 name = "better_scoped_tls"
@@ -801,7 +801,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1fbef58698a487c253c55c3d17bb1efbe268d2961a2c8278e3f86fff721355fc"
 dependencies = [
  "async-tungstenite",
- "base64 0.21.0",
+ "base64 0.21.6",
  "cfg-if 1.0.0",
  "chromiumoxide_cdp",
  "chromiumoxide_types",
@@ -3420,7 +3420,7 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "async-recursion",
- "base64 0.21.0",
+ "base64 0.21.6",
  "clap 4.1.11",
  "console-subscriber",
  "dunce",
@@ -3446,7 +3446,7 @@ dependencies = [
  "anyhow",
  "async-recursion",
  "async-trait",
- "base64 0.21.0",
+ "base64 0.21.6",
  "const_format",
  "futures",
  "indexmap 1.9.3",
@@ -4647,7 +4647,7 @@ version = "0.11.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0ba30cc2c0cd02af1222ed216ba659cdb2f879dfe3181852fe7c50b1d0005949"
 dependencies = [
- "base64 0.21.0",
+ "base64 0.21.6",
  "bytes",
  "encoding_rs",
  "futures-core",
@@ -4798,7 +4798,7 @@ version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d194b56d58803a43635bdc398cd17e383d6f71f9182b9a192c127ca42494a59b"
 dependencies = [
- "base64 0.21.0",
+ "base64 0.21.6",
 ]
 
 [[package]]
@@ -7897,7 +7897,7 @@ version = "0.1.0"
 source = "git+https://github.com/vercel/turbo.git?tag=turbopack-230814.2#1295dbce87dc480b0eb1e19108950e1adce54573"
 dependencies = [
  "anyhow",
- "base64 0.21.0",
+ "base64 0.21.6",
  "image",
  "indexmap 1.9.3",
  "mime",
@@ -8864,7 +8864,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "02ba1b6e7ad252e691a86d727aa422fbc5ed95e9bca4ec8547869e9b5779f8f3"
 dependencies = [
  "anyhow",
- "base64 0.21.0",
+ "base64 0.21.6",
  "byteorder",
  "bytes",
  "indexmap 1.9.3",
