@@ -134,5 +134,5 @@ tracing = "0.1.37"
 tracing-subscriber = "0.3.16"
 url = "2.2.2"
 urlencoding = "2.1.2"
-webbrowser = "0.8.7"
+webbrowser = "0.8.13"
 dhat = { version = "0.3.2" }
