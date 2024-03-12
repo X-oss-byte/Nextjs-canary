@@ -14,7 +14,7 @@ swc_v1 = []
 plugin = ["getrandom/js", "turbopack-binding/__swc_core_binding_wasm_plugin"]
 
 [dependencies]
-anyhow = "1.0.66"
+anyhow = "1.0.81"
 console_error_panic_hook = "0.1.6"
 next-swc = { version = "0.0.0", path = "../core" }
 once_cell = { workspace = true }

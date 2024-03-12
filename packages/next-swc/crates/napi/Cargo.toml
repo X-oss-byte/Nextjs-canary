@@ -30,7 +30,7 @@ __internal_dhat-heap = ["dhat"]
 __internal_dhat-ad-hoc = ["dhat"]
 
 [dependencies]
-anyhow = "1.0.66"
+anyhow = "1.0.81"
 backtrace = "0.3"
 fxhash = "0.2.1"
 dhat = { workspace = true, optional = true }
