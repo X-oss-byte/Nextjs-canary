@@ -72,7 +72,7 @@ allsorts = { version = "0.14.0", default_features = false, features = [
   "outline",
   "flate2_rust",
 ] }
-anyhow = "1.0.69"
+anyhow = "1.0.81"
 assert_cmd = "2.0.8"
 async-compression = { version = "0.3.13", default-features = false, features = [
   "gzip",
