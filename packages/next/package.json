@@ -207,7 +207,7 @@
     "buffer": "5.6.0",
     "bytes": "3.1.1",
     "chalk": "2.4.2",
-    "ci-info": "watson/ci-info#f43f6a1cefff47fb361c88cf4b943fdbcaafe540",
+    "ci-info": "watson/ci-info#f45f838072d67f38bc7db1bd1c4bbd12d0e44e8a",
     "cli-select": "1.1.2",
     "client-only": "0.0.1",
     "comment-json": "3.0.3",
